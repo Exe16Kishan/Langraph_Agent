@@ -19,7 +19,10 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "@langchain/community": "^0.3.45",
     "@langchain/core": "^0.3.57",
-    "@langchain/langgraph": "^0.2.74"
+    "@langchain/google-genai": "^0.2.10",
+    "@langchain/langgraph": "^0.2.74",
+    "langchain": "^0.3.27"
   }
 }
